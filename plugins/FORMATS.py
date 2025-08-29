@@ -39,8 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/infinite_animes>Infinite Anime</a>\n» K-Drama : <a href=https://t.me/infinite_dramas>Infinite drama</a>/n» 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/+9DcMYIikk44xMzA1>𝐇ᴇɴᴛᴀɪ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/Animeinhindifangroup>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Oedmi>Unknown</a></blockquote></b>"""
-
+<blockquote><b>» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Infinite_animes>Infinite Anime</a>\n» 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/+9DcMYIikk44xMzA1>𝐇ᴇɴᴛᴀɪ</a>\n» 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/+9DcMYIikk44xMzA1>𝐇ᴇɴᴛᴀɪ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/Animeinhindifangroup>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Oedmi>Unknown</a></blockquote></b>"""
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
 » ᴛᴏᴛᴀʟ ᴀᴅᴍɪɴs:  <b>{total_admin}</b>
