@@ -34,7 +34,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "INFINITE_ANIMES_STORE_BOT")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #Collection of pics for Bot // #Optional but atleast one pic link should be replaced if you don't want predefined links
-PICS = (os.environ.get("PICS", "https://graph.org/file/ed89bd5b68834b3517403-674d2a9faa56509081.jpg")).split() #Required
+PICS = (os.environ.get("PICS", "https://graph.org/file/99093aed605b7e4437083-9e5a100fab2c70d672.jpg")).split() #Required
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
