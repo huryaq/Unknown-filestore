@@ -82,7 +82,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         user_link = f"https://t.me/{user.username}" if user.username else f"tg://openmessage?user_id={OWNER_ID}" 
         ownername = f"<a href={user_link}>{user.first_name}</a>" if user.first_name else f"<a href={user_link}>no name !</a>"
         await query.edit_message_media(
-            InputMediaPhoto("https://graph.org/file/2795613ebc56091118ace-bc4820a5f1fc4b673d.jpg", 
+            InputMediaPhoto("https://graph.org/file/99093aed605b7e4437083-9e5a100fab2c70d672.jpg", 
                             ABOUT_TXT.format(
                                 botname = client.name,
                                 ownername = ownername, 
