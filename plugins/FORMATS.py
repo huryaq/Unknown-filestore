@@ -3,7 +3,7 @@
 #text formatting....
 
 on_pic = "https://graph.org/file/ed89bd5b68834b3517403-674d2a9faa56509081.jpg"
-off_pic = "https://graph.org/file/99093aed605b7e4437083-9e5a100fab2c70d672.jpg"
+off_pic = "https://graph.org/file/ed89bd5b68834b3517403-674d2a9faa56509081.jpg"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
